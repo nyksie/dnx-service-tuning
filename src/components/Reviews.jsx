@@ -46,7 +46,7 @@ export default function Reviews() {
           </div>
           
           <a 
-            href="https://share.google/AZQgjiOemdl2K4zxQ" 
+            href="https://share.google/SPNnTlKn6YH7j7IgE" 
             target="_blank" 
             rel="noreferrer" 
             className="bg-orange-600 hover:bg-orange-500 text-white font-bold px-6 py-3 rounded-xl transition text-sm shadow-lg shadow-orange-600/20 text-center cursor-pointer shrink-0 w-full sm:w-auto"
